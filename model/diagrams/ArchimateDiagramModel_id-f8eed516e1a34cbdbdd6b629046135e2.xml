@@ -95,15 +95,15 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-0249bef8a9a8418e8fabeaa6967c4bab">
+        id="id-c306958a1fc6443d9c103f101ead9481">
       <bounds
-          x="437"
-          y="100"
+          x="552"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:BusinessActor"
-          href="BusinessActor_id-e970200e94b643f5b6923b91f330bbb0.xml#id-e970200e94b643f5b6923b91f330bbb0"/>
+          xsi:type="archimate:Location"
+          href="Location_id-bdacfbf8e0a845e78decf5e987511289.xml#id-bdacfbf8e0a845e78decf5e987511289"/>
     </children>
   </children>
   <children
